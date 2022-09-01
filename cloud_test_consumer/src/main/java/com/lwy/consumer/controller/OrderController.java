@@ -31,8 +31,7 @@ public class OrderController {
         //3.模拟返回成功信息
         System.out.println("hhhhhhhhhhhhhhhhhhhhhhhh");
         return info;
-        //哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈
-        //hot-fix
+
     }
 
 
