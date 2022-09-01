@@ -29,6 +29,7 @@ public class OrderController {
         //4.模拟配置信息获取 打印
         System.out.println("值为：" + url);
         //3.模拟返回成功信息
+        System.out.println("hhhhhhhhhhhhhhhhhhhhhhhh");
         return info;
         //哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈
     }
