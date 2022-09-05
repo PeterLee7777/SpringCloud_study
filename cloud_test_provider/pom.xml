@@ -10,10 +10,7 @@
     <modelVersion>4.0.0</modelVersion>
 
     <artifactId>cloud_test_provider</artifactId>
-    作者：黑马程序员
-    链接：https://www.zhihu.com/question/473027172/answer/2469602157
-    来源：知乎
-    著作权归作者所有。商业转载请联系作者获得授权，非商业转载请注明出处。
+
 
     <dependencies>
         <!--配置feign-->
